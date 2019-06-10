@@ -1,0 +1,15 @@
+.s1 {
+  display: flex;
+  justify-content:center;
+
+
+}
+
+.homework{
+  font-size: 50px;
+}
+
+.submit-btn {
+  font-size: 500px;
+  margin: 20px;
+}
